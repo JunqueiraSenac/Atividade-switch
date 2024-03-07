@@ -112,6 +112,6 @@ break;
 
 }
 }
-
+//tabuada com estrutrura de repetição
 ?>
 </body>
